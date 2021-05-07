@@ -11,6 +11,6 @@ function showCreateAccountForm(){
     btnSignUp.style.display = 'none';
     footer.classList.add('show');
     regBtns.style.display = 'block';
-
+    btnCreateAccount.textContent = "Confirm"
 
 }

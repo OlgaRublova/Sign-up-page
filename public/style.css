@@ -22,6 +22,7 @@ body {
     width: 25rem;
     height: 40rem;
     background-color: rebeccapurple;
+    box-shadow: 5px 5px 5px black;
 }
 
 .signup__header {
@@ -121,6 +122,7 @@ input{
     text-align: center !important;
     font-size: 90% !important;
     font-weight: 200 !important;
+    color: lightcoral;
 
 }
 
